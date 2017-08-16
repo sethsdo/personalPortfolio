@@ -1,0 +1,141 @@
+* {
+	padding: 0;
+    margin: 0;
+}
+h1 {
+    font-family: Zapfino;
+    font-size: 20px;
+
+}
+h3 {
+    color: white;
+}
+#container {
+    background-color: #675e5d;
+    
+}
+
+#header{
+    background-color: lightgrey;
+    height: 75px;
+
+}
+.floating-box {
+    float: left;
+    /*border: 3px solid #73AD21;*/  
+}
+#name-logo{
+    padding-left:30px;
+    width: 400px;
+    
+}
+#matto {
+    width: 380px;
+    float: right;
+    padding-top: 20px
+}
+#about-row {
+    height: 350px;
+}
+.about-box {
+    height: 350px;
+    width: 450px;
+    float: left;
+    margin: 25px;
+    
+}
+
+#profile-img img{
+    width:475px;
+    height:350px;
+}
+.content-head{
+    height: 50px;
+    background-color: #462f2f;
+    box-shadow: 0px 0px 30px 20px #8e6c71 inset;
+}
+.content-head h3{
+    padding-left: 20px;
+    padding-top: 15px;
+}
+#about-content {
+    background-color: lightgrey;
+}
+#about-content p{
+    padding:15px;
+}
+#about-content a{
+    color: black;
+}
+.port-row {
+    height: 700px;
+}
+.port-pages {
+    height: 700px;
+    width: 283px;
+    
+    float: left;
+    margin: 25px;
+    background-color: lightgrey;
+}
+.port-img img{
+    width: 283px;
+    height: 200px;
+    margin-top: 10px;
+}
+.port-content {
+    background-color: lightgrey;
+}
+.port-content p{
+    padding:10px;
+}
+.tech-head{
+    height: 50px;
+    background-color: #462f2f;
+    box-shadow: 0px 0px 30px 20px #8e6c71 inset;
+}
+.tech-head h3{
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.tech-img {
+    margin-top: 10px;
+    padding: 10px;
+}
+.tech-img img {
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+}
+.port-links {
+    height: 30px;
+    width: 120px;
+    margin: auto;
+    background-color: green;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 0px 1px 100px 5px black;
+}
+h4 {
+    text-align: center;
+    padding-top: 5px;
+}
+#footer {
+    background-color: lightgrey;
+    height: 75px;
+    margin-top: 110px
+
+}
+#contact-info p{
+    text-align: center;
+}
+#web-profiles img {
+    height: 20px;
+    width: 20px;
+}
+#web-profiles {
+    margin-left: 365px;
+}
+#contact-info {
+    padding-top: 10px;
+}
